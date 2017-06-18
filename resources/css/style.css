@@ -13,10 +13,31 @@ h2 {
   font-size: 16px;
 }
 
-.center {
+h3 {
+  font-weight: normal;
+  font-size: 42px;
+  color: white;
+}
+
+h4 {
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+}
+
+.textcenter {
   text-align: center;
 }
 
 .link {
   color: Aquamarine;
+}
+
+.contentcenter {
+  display: block;
+  margin: auto;
+}
+
+.copyright {
+  float: right;
 }
